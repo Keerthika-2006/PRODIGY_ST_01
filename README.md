@@ -1,7 +1,7 @@
 # PRODIGY_ST_01
 This project contains manual test cases created for testing a web-based Simple Calculator application. The test cases are designed to validate the accuracy of arithmetic operations, ensure proper handling of valid and invalid inputs, and verify operator precedence (BODMAS).
 
-Application Under Test (AUT)
+**Application Under Test (AUT)**
 
 Application Name: Simple Calculator
 
@@ -9,7 +9,7 @@ URL: https://dunizb.github.io/sCalc/
 
 Application Type: Web-based Application
 
-🎯 Objective
+**Objective**
 
 The objective of this task is to:
 
@@ -21,7 +21,7 @@ Ensure correct implementation of BODMAS (operator precedence)
 
 Check proper error handling for invalid inputs such as division by zero
 
-Testing Types
+**Testing Types**
 
 Manual Testing
 
@@ -29,7 +29,7 @@ Black-Box Testing
 
 Functional Testing
 
-Features Tested
+**Features Tested**
 
 Addition
 
@@ -47,13 +47,13 @@ Invalid Input Handling
 
 Division by zero
 
-Repository Structure
+**Repository Structure**
 calculator-test-cases/
 │
 ├── README.md
 └── prodigy task 1.md
 
-Test Case Format
+**Test Case Format**
 
 Each test case includes:
 
@@ -67,7 +67,7 @@ Test Steps
 
 Expected Result
 
-Tools Used
+**Tools Used**
 
 GitHub
 
@@ -75,7 +75,7 @@ Markdown
 
 Web Browser (Google Chrome)
 
-How to Use
+**How to Use**
 
 Open the calculator using the application URL
 
@@ -85,6 +85,6 @@ Execute the test steps manually
 
 Compare the actual result with the expected result
 
-Test Execution Status
+**Test Execution Status**
 
 All documented test cases were executed manually and passed successfully under the tested environment.
